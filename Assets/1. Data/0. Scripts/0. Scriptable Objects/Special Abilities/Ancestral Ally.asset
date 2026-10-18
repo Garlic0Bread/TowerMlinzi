@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec12bb1bb1bc652419a2d1b962677d4e, type: 3}
+  m_Name: Ancestral Ally
+  m_EditorClassIdentifier: Assembly-CSharp::AncestralSummon
+  cooldown: 20
+  abilityName: Ancestral Ally
+  allyPrefab: {fileID: 7420469153892757132, guid: 42d18fb425824604bafff320cf3dd3d8, type: 3}
+  baseDuration: 10

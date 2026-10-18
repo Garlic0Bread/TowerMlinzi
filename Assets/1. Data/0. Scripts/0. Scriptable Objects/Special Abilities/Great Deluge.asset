@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c025468d28158945bc09a1011073e40, type: 3}
+  m_Name: Great Deluge
+  m_EditorClassIdentifier: Assembly-CSharp::GreatDelugeAbility
+  cooldown: 25
+  abilityName: Great Deluge
+  stormPrefab: {fileID: 3894633213914013965, guid: fd01fa6f8871c3e4d83c33a838fd286f, type: 3}
+  baseRadius: 5
+  duration: 12

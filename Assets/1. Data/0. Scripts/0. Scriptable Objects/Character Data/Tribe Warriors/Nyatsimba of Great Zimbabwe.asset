@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a0c222e23499f943818bb5ba93cad20, type: 3}
+  m_Name: Nyatsimba of Great Zimbabwe
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  tribe: 'Karanga Clan of The Shona '
+  characterName: Nyatsimba
+  characterPortrait: {fileID: 0}
+  characterClass: 0
+  baseHealth: 100
+  baseMoveSpeed: 5
+  baseAttackRate: 1
+  baseAttackRange: 5
+  baseAttackDamage: 10
+  weaponType: 1
+  meleeStats:
+    swingArc: 180
+    knockbackForce: 2.5
+    hitStunDuration: 0
+    swingEffect: {fileID: 4857367596300681779, guid: c98f9780801d15d4289db3dd19894b59, type: 3}
+  weaponPrefab: {fileID: 0}
+  passiveAbility: {fileID: 0}
+  specialAbility: {fileID: 11400000, guid: 7f8a69c170dcedf43a5040b5afefa482, type: 2}
+  currentLevel: 1
+  currentExp: 0
+  levelUpUnlocks: []
